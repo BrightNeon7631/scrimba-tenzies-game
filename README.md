@@ -32,9 +32,7 @@ I started and finished this project in June 2023.
 
 ## Links
 
-[Live Demo](https://brightneon7631.github.io/scrimba-tenzies-game/)
-
-[My Other Projects](https://brightneon7631.github.io/odin-scrimba-projects/)
+[Live Demo](https://bn7631-scrimba-tenzies-game.pages.dev)
 
 ## Screenshots
 
@@ -56,7 +54,7 @@ I started and finished this project in June 2023.
 
 ```bash
 # clone repo
-git clone
+git clone https://github.com/BrightNeon7631/scrimba-tenzies-game.git
 
 # install project dependencies
 npm install
